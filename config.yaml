@@ -1,0 +1,10 @@
+database: 
+  db_user: root
+  db_password: password@123
+  db_host: bj-cynosdbmysql-grp-4fodmkji.sql.tencentcdb.com
+  db_port: 25733
+  db_name: shop
+
+hai:
+  model: llama3.1:8b
+  base_url: http://82.156.136.254:6399
